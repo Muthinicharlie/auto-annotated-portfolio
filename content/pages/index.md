@@ -17,10 +17,11 @@ sections:
     subtitle: >-
       I am a professional full stack web developer and mobile developer with a
       strong focus on creating user-centric web designs and providing innovative
-      solutions through web applications development. I bring extensive
-      experience in crafting responsive, mobile-friendly and performance
-      oriented websites that are integrated with the current cutting edge
-      technologies so as to deliver exceptional user experiences.
+      solutions through web applications development and mobile applications
+      development. I bring extensive experience in crafting responsive,
+      mobile-friendly and performance oriented websites that are integrated with
+      the current cutting edge technologies so as to deliver exceptional user
+      experiences.
     styles:
       self:
         height: auto
