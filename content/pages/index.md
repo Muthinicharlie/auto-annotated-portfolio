@@ -15,9 +15,12 @@ sections:
     backgroundSize: full
     title: I’m a full stack web developer and a mobile app developer.
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      I am a professional full stack web developer and mobile developer with a
+      strong focus on creating user-centric web designs and providing innovative
+      solutions through web applications development. I bring extensive
+      experience in crafting responsive, mobile-friendly and performance
+      oriented websites that are integrated with the current cutting edge
+      technologies so as to deliver exceptional user experiences.
     styles:
       self:
         height: auto
